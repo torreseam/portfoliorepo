@@ -110,6 +110,8 @@ section h1 {
   float: right;
 }
 
+
+
 /* end of intro - start of flex container */
 
 .flex-container {
@@ -199,8 +201,7 @@ section h1 {
 .service-grid-item.git {
     grid-column: 2 / span 1;
 }
-/* mayneed to remove */
-.service-grid-item.fa-twitter
+
 .service-grid-itemt.twitter {
     grid-column: 2 / span 1;
 }
@@ -258,14 +259,6 @@ section h1 {
   box-sizing: inherit;
 }
 
-.grid-container {
-  display: grid;
-  grid-template-columns: repeat (4, 1fr)
-  grid-template-rows: repeat (4, 1fr)
-  grid-gap: 20px;
-  grid-auto-flow: dense;
-}
-
 .grid-item {
   justify-content: center;
   border: 5px solid rgba(0, 0, 0, 0.2);
@@ -279,8 +272,7 @@ section h1 {
   grid-row: span 2;
 }
 
-
-/* footer */
+/* contact style ends and footer starts  */
 
 .simple-footer {
   font-family: "Fidelity Sans"; */
@@ -293,7 +285,7 @@ section h1 {
   margin: 1.5em 0 0;
 }
 
-/*  MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
+/* footer ends and media query for smaller screens or mobile devices begins  */
 @media screen and (max-width: 980px) {
     header {
         padding-bottom: 0;
@@ -339,7 +331,7 @@ section h1 {
     }
 }
 
-/* MEDA QUERIES */
+/* media query px size begin */
 @media screen and (max-width: 768px) {
     section {
         padding: 30 px 15px;
