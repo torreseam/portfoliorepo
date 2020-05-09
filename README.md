@@ -1,7 +1,5 @@
 
-![portfolio demo] portfoliorepo
-
-## Challenge Submission
+## Challenge Submission / Demo (https://torreseam.github.io/Drink-and-Think/)
 
 For review:
 
