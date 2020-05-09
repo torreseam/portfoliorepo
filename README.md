@@ -1,7 +1,7 @@
 
 ## Challenge Submission 
 
-# [Demo] (https://torreseam.github.io/Drink-and-Think/)
+# [Demo](https://torreseam.github.io/Drink-and-Think/)
 
 For review:
 
