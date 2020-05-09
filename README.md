@@ -1,7 +1,7 @@
 
 ## Challenge Submission 
 
-# [Demo](https://github.com/torreseam/portfoliorepo.git)
+# [Demo](https://github.com/torreseam/portfoliorepo)
 
 For review:
 
