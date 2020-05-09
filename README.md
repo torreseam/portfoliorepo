@@ -1,5 +1,5 @@
 
-## Challenge Submission / Demo (https://torreseam.github.io/Drink-and-Think/)
+## Challenge Submission / [Demo] (https://torreseam.github.io/Drink-and-Think/)
 
 For review:
 
